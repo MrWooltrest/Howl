@@ -14,23 +14,20 @@
 
 - Minimal layout with amazing transitions 
 
-- More will be added as it grows ....
+- More will be added as it grows...
 
 
-## :camera: Screenshots
+## :framed_picture: Screenshots
 
-<img src="screenshots/now_playing.png" width="32%" alt="Now Playing" />
+| <img src="screenshots/now_playing.png" width="500" alt="Now Playing" align="center"/> | <img src="screenshots/song_playing.png" width="500" alt="Songs" align="center"/> | <img src="screenshots/albums_page.png" width="500" alt="Albums" align="center"/>
+|:---:|:---:|:---:|
 
-<img src="screenshots/song_playing.png" width="32%" alt="Songs" />
 
-<img src="screenshots/albums_page.png" width="32%" alt="Albums" />
-
-  
-## :iphone: Download
+## :floppy_disk: Download
 
 ### Download test apks from [Telegram channel](https://telegram.me/IamlookerBuilds)
 
 
-## :wave: Contribute
+## :raised_hands: Contribute
 
 ### Pull Requests are always welcomed!
