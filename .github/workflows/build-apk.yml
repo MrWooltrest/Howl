@@ -34,4 +34,4 @@ jobs:
         uses: actions/upload-artifact@v2.3.1
         with:
           name: Howl
-          path: Howl/Howl/build/outputs/apk/
+          path: Howl/build/outputs/apk/
