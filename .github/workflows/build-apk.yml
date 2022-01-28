@@ -1,9 +1,8 @@
 name: Build Howl
 
 on:
-  workflow_dispatch:
   push:
-    branches: [ alpha ]
+    branches: [ gh-actions ]
 
 
 jobs:
