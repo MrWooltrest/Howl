@@ -1,6 +1,6 @@
 <div align="center">
 
-![logo](https://raw.githubusercontent.com/MrWooltrest/Howl/alpha/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp)
+![logo](app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp)
 
 # Howl Music Player
 
@@ -10,9 +10,9 @@
 
 ## :package: Features 
 
-- Sleek and responsive UI , following material design
+- :art: Sleek and responsive UI , following material design
 
-- Minimal layout with amazing transitions 
+- :dart: Minimal layout with amazing transitions 
 
 - More will be added as it grows...
 
