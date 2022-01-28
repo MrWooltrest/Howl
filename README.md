@@ -30,9 +30,11 @@
 |:---:|:---:|:---:|
 
 
-## :floppy_disk: Download
+## :floppy_disk: Get it
 
 ### Download test apks from [Telegram channel](https://telegram.me/IamlookerBuilds)
+
+### Download test apks from [GitHub Actions](https://github.com/MrWooltrest/Howl/actions/workflows/build-apk.yml)
 
 
 ## :raised_hands: Contribute
