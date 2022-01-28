@@ -1,3 +1,10 @@
+> ### :pushpin: Note
+> This branch is for personal use 
+> and will not be merged into the main
+> #### :grey_question: Why
+> I decided to create it for
+> building release apk
+
 <div align="center">
 
 ![logo](app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp)
