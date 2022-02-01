@@ -19,7 +19,7 @@
 
 ## :framed_picture: Screenshots
 
-| <img src="screenshots/now_playing.png" width="500" alt="Now Playing" align="center"/> | <img src="screenshots/song_playing.png" width="500" alt="Songs" align="center"/> | <img src="screenshots/albums_page.png" width="500" alt="Albums" align="center"/>
+| <img src="metadata/en-US/images/phoneScreenshots/now_playing.png" width="500" alt="Now Playing" align="center"/> | <img src="metadata/en-US/images/phoneScreenshots/song_playing.png" width="500" alt="Songs" align="center"/> | <img src="metadata/en-US/images/phoneScreenshots/albums_page.png" width="500" alt="Albums" align="center"/>
 |:---:|:---:|:---:|
 
 
