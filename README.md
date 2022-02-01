@@ -4,7 +4,7 @@
 
 # Howl Music Player
 
-### A sleek and minimal offline music player made wit. 
+### A sleek and minimal offline music player made with love
 
 <div align="left">
 
