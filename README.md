@@ -1,6 +1,6 @@
 <div align="center">
 
-![logo](https://raw.githubusercontent.com/MrWooltrest/Howl/alpha/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp)
+![logo](app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp)
 
 # Howl Music Player
 
@@ -10,27 +10,24 @@
 
 ## :package: Features 
 
-- Sleek and responsive UI , following material design
+- :art: Sleek and responsive UI , following material design
 
-- Minimal layout with amazing transitions 
+- :dart: Minimal layout with amazing transitions 
 
-- More will be added as it grows ....
+- More will be added as it grows...
 
 
-## :camera: Screenshots
+## :framed_picture: Screenshots
 
-<img src="metadata/en-US/images/phoneScreenshots/now_playing.png" width="32%" alt="Now Playing" />
+| <img src="metadata/en-US/images/phoneScreenshots/now_playing.png" width="500" alt="Now Playing" align="center"/> | <img src="metadata/en-US/images/phoneScreenshots/song_playing.png" width="500" alt="Songs" align="center"/> | <img src="metadata/en-US/images/phoneScreenshots/albums_page.png" width="500" alt="Albums" align="center"/>
+|:---:|:---:|:---:|
 
-<img src="metadata/en-US/images/phoneScreenshots/song_playing.png" width="32%" alt="Songs" />
 
-<img src="metadata/en-US/images/phoneScreenshots/albums_page.png" width="32%" alt="Albums" />
-
-  
-## :iphone: Download
+## :floppy_disk: Download
 
 ### Download test apks from [Telegram channel](https://telegram.me/IamlookerBuilds)
 
 
-## :wave: Contribute
+## :raised_hands: Contribute
 
 ### Pull Requests are always welcomed!
